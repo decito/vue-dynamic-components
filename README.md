@@ -1,4 +1,4 @@
-# dynamic-components
+# vue-dynamic-components
 
 ## Project setup
 ```
